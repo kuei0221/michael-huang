@@ -1,4 +1,4 @@
-### Greeting, here is Micahel, a junior ruby developer. 😄
+### Greeting, here is Micahel, a ruby developer. 😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuei0221&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuei0221&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
